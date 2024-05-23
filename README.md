@@ -1,1 +1,1 @@
-##LARAVEL 11 {Learn}##
+##LARAVEL 11 [Learn]
